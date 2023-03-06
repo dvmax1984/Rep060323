@@ -12,6 +12,6 @@ Contacts:
 * Alex
 
 
-[КОД](/Rep060323/Program.cs)
+[КОД](Program.cs)
 
-![Блок-схема](/Rep060323/diagramma.drawio.png)
+![Блок-схема](diagramma.drawio.png)
