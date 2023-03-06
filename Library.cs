@@ -13,8 +13,6 @@ public static class Library
         for (int i = 1; i < n; i++)
         {
             p = p * (i + 1);
-
-            
         }
         return p;
     }
