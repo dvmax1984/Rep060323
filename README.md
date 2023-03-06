@@ -6,4 +6,12 @@
 4 -> 24 
 5 -> 120
 
-Contacts: dvmax1984@mail.ru
+Contacts: 
+* Maksim: dvmax1984@mail.ru
+* Ирина
+* Alex
+
+
+[КОД](/Rep060323/Program.cs)
+
+![Блок-схема](/Rep060323/diagramma.drawio.png)
