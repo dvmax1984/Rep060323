@@ -12,6 +12,6 @@
 * Alex
 
 
-[КОД](Program.cs)
+Ex 028 [КОД](Program.cs)
 
 ![Блок-схема](diagramma.drawio.png)
