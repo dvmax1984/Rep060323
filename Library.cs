@@ -6,7 +6,7 @@ public static class Library
         return Convert.ToInt32(Console.ReadLine());
     }
 
-    public static void GetResult(int n)
+    public static int GetResult(int n)
     {
         int p = 1;
 
@@ -14,8 +14,9 @@ public static class Library
         {
             p = p * (i + 1);
 
-            Console.WriteLine(p);
+            
         }
+        return p;
     }
 }
 
